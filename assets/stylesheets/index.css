@@ -15,3 +15,10 @@
     display: none;
   }
 }
+
+/* Sobre mim - Seções */
+
+#sobre-mim .row div {
+  border: 1px solid var(--abbey);
+  border-radius: 7.6px;
+}
