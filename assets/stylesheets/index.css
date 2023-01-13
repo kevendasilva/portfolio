@@ -22,3 +22,21 @@
   border: 1px solid var(--abbey);
   border-radius: 7.6px;
 }
+
+/* Projetos - Seções */
+
+#projetos .row div {
+  background: var(--ebony-clay);
+  border-radius: 7.6px;
+}
+
+.accordion-button {
+  box-shadow: none !important;
+  margin: 0;
+}
+
+.badge {
+  background: #3E3A97;
+  margin: 6px 0;
+  padding: 9px 12px;
+}
