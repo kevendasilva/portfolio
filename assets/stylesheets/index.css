@@ -40,3 +40,14 @@
   margin: 6px 0;
   padding: 9px 12px;
 }
+
+/* Formação - Seções */
+
+#formacao .row div {
+  border: 1px solid var(--abbey);
+  border-radius: 7.6px;
+}
+
+.course {
+  margin-bottom: 12px !important;
+}
