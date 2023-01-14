@@ -69,3 +69,48 @@
 #github .card {
   background: var(--ebony-clay);
 }
+
+/* Modal - Projetos */
+
+.modal .modal-header {
+  border: none;
+}
+
+.project-content .content {
+  border: 1px solid var(--abbey);
+  border-radius: 7.6px;
+  padding: 40px;
+}
+
+.navigation .links {
+  margin: 0;
+}
+
+.navigation .subtitle-1 {
+  margin-bottom: 9px;
+}
+
+.navigation .topics {
+  background: var(--ebony-clay);
+  border-radius: 7.6px;
+  padding: 20px;
+}
+
+.navigation ul {
+  border-left: 1px solid var(--white);
+  padding-left: 12px;
+  list-style-type: none;
+}
+
+.navigation ul li {
+  margin-bottom: 22px;
+}
+
+.navigation ul li:last-child {
+  margin-bottom: 0;
+}
+
+.modal-link {
+  color: var(--purple);
+  font-weight: bold;
+}
