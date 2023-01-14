@@ -12,6 +12,10 @@
 
 /* Layout */
 
+html {
+  scroll-padding-top: 5em;
+}
+
 a {
   color: var(--white);
   text-decoration: none;
